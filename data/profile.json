@@ -1,0 +1,92 @@
+{
+    "name": "Jonas Holanda",
+    "photo": "https://avatars.githubusercontent.com/u/138180385?v=4",
+    "job": "Desenvolvedor Web",
+    "location": "Sobral - CE",
+    "phone": "",
+    "email": "jonasholanda15@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "PHP",
+          "logo": "./data/imgs/php.png"
+        },
+        {
+          "name": "MySql",
+          "logo": "./data/imgs/mysql.png"
+        },
+        {
+          "name": "HTML5",
+          "logo": "./data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "./data/imgs/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "./data/imgs/js.png"
+        },
+        {
+          "name": "Git",
+          "logo": "./data/imgs/git.png"
+        },
+        {
+          "name": "GitHub",
+          "logo": "./data/imgs/github.png"
+        },
+        {
+          "name": "Visual Studio Code",
+          "logo": "./data/imgs/vscode.png"
+        }
+      ],
+      "softSkills": [
+        "Organização",
+        "Determinação",
+        "Comprometimento"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Stardev Academy - Landing page campeã do Desafio Landing Page",
+        "url": "https://github.com/jonas-holanda/stardev-academy",
+        "github": true
+      },
+      {
+        "name": "API com Laravel",
+        "url": "https://github.com/jonas-holanda/api-laravel",
+        "github": true
+      },
+      {
+        "name": "QR Code Generator",
+        "url": "https://github.com/jonas-holanda/qrcode-generator",
+        "github": true
+      },
+      {
+        "name": "Wikipedia 2.0",
+        "url": "https://github.com/jonas-holanda/wikipedia2.0",
+        "github": true
+      },
+      {
+        "name": "Jogo da Memória",
+        "url": "https://github.com/jonas-holanda/memory-game",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Programador web / Instituto Seven",
+        "period": "03/08/2018 até 31/02/2023 - 4 anos e 5 meses",
+        "description": "Criava sites que eram usados pela empresa e dava suporte aos demais sites.Utilizando a Linguagem de Programação PHP e o Wordpress para as Landing Pages. Também subia aulas online para uma plataforma de cursos online da empresa. E dava suporte aos alunos sobre as aulas online e certificados dos cursos de extensão e eventos da empresa."
+      },
+      {
+        "name": "Estagiário de TI / Instituto Seven",
+        "period": "agosto de 2017 até novembro de 2017",
+        "description": "Auxiliava meu supervisor na criação de um sistema web para a empresa."
+      }
+    ]
+  }
