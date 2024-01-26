@@ -12,7 +12,9 @@
 }
 
 body {
-    background-color: #000;
+    background: #000428; 
+    background: -webkit-linear-gradient(to right, #004e92, #000428); 
+    background: linear-gradient(to right, #004e92, #000428); 
     color: #fff;
 }
 
@@ -33,7 +35,8 @@ a:hover {
     text-decoration: underline;
 }
 
-.main::before,
+
+/* .main::before,
 .main::after {
     content: '';
     background-image: url('../img/background.svg');
@@ -55,7 +58,7 @@ a:hover {
     bottom: 0;
     right: 0;
     transform: rotate(180deg);
-}
+} */
 
 @media only screen and (min-width: 768px) {
 
